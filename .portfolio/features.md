@@ -1,0 +1,4 @@
+- **3D Models**: Import and render 3D models in various formats.
+- **Animations**: Implement animations and transitions for enhanced interactivity.
+- **Lighting Effects**: Utilize different lighting techniques to create realistic environments.
+- **Interactive Controls**: Enable user interactions with 3D objects.

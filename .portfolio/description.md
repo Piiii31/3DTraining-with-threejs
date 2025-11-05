@@ -1,0 +1,1 @@
+The **3D Training with Three.js** project is designed to help users understand the basics of 3D graphics and how to use the Three.js library to create interactive 3D environments. The project includes various examples that illustrate different features of Three.js, such as lighting, shadows, and animations.
